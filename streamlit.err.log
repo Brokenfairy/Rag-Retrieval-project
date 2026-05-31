@@ -1,0 +1,20 @@
+2026-02-13 00:08:32,385 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-02-13 00:08:32,630 - INFO - Collection langchain_docs already exists.
+2026-02-13 00:08:32,652 - INFO - File FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg already exists in state tracking.
+2026-02-13 00:08:32,660 - INFO - File FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg already exists in state tracking.
+2026-02-13 00:08:32,948 - INFO - Updated status for FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg to Pending
+2026-02-13 00:08:32,949 - INFO - Starting conversion for data\FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg
+2026-02-13 00:08:33,624 - ERROR - Failed to convert data\FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg: 'str' object cannot be interpreted as an integer
+2026-02-13 00:08:33,633 - INFO - Updated status for FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg to Failed
+2026-02-13 00:11:38,172 - INFO - File FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg already exists in state tracking.
+2026-02-13 00:11:38,173 - INFO - File FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg already exists in state tracking.
+2026-02-13 00:11:38,269 - INFO - Updated status for FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg to Pending
+2026-02-13 00:11:38,271 - INFO - Starting conversion for data\FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg
+2026-02-13 00:11:38,399 - ERROR - Failed to convert data\FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg: 'str' object cannot be interpreted as an integer
+2026-02-13 00:11:38,402 - INFO - Updated status for FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg to Failed
+2026-02-13 00:11:38,753 - INFO - File FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg already exists in state tracking.
+2026-02-13 00:11:38,757 - INFO - File FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg already exists in state tracking.
+2026-02-13 00:11:38,922 - INFO - Updated status for FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg to Pending
+2026-02-13 00:11:38,922 - INFO - Starting conversion for data\FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg
+2026-02-13 00:11:39,086 - ERROR - Failed to convert data\FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg: 'str' object cannot be interpreted as an integer
+2026-02-13 00:11:39,090 - INFO - Updated status for FW BHBW   AIR FREIGHT ESTIMATE- EXW HAKO (23843 Bad Oldesloe).msg to Failed

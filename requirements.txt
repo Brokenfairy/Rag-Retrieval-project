@@ -1,0 +1,18 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-ollama
+crewai
+crewai-tools
+langgraph
+pymilvus
+milvus-lite; python_version < "3.12"
+llama-parse
+streamlit
+extract-msg
+weasyprint
+reportlab
+python-dotenv
+pandas
+plotly
